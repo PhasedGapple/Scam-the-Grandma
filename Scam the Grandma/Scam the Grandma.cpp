@@ -78,6 +78,6 @@ int main()
 
 		msgs.push_back({ {"role", "user"}, {"content", input} });
 	}
-	std::cout << "\n\n\n\n\n\n\n";
+	std::cout << "\n\n\n\n";
 	main();
 }
